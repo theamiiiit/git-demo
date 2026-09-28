@@ -3,4 +3,9 @@ Hello GitHub!
 This is my first Git project.
 =======
 This change was made on Amit branch.
+<<<<<<< HEAD
 >>>>>>> Amit
+=======
+>>>>>>> Amit
+This change was made from another computer.
+>>>>>>> 5ab0aafd324e7bc6692ccad8a64bb621327eeb27
