@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello GitHub!
 This is my first Git project.
+=======
+This change was made on Amit branch.
+>>>>>>> Amit
